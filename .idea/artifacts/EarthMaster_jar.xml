@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EarthMaster:jar">
+    <output-path>$USER_HOME$/Documents/Server/TestingServer/plugins</output-path>
+    <root id="archive" name="EarthMaster.jar">
+      <element id="module-output" name="EarthMaster" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../GameAPI/out/artifacts/GameAPI_jar/GameAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

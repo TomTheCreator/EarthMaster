@@ -1,0 +1,19 @@
+name: Avatar
+main: me.TomTheDeveloper.EarthMaster
+version: 1.0
+commands:
+  leave:
+    description: Teleports you to the End!
+    usage: leave
+  earthmaster:
+    description: All the commands!
+    usage: /EarthMaster help
+  addsigns:
+    usage: /addsign
+    description: Adds the sign to the plugin!
+  smartreload:
+    usage: /addsign
+    description: Adds the sign to the plugin!
+  smartstop:
+    usage: /addsign
+    description: Adds the sign to the plugin!
